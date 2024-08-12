@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm Bohirjon Akhmmedov
 - 👔 Good at c# .Net
-- 🌱 I’m currently learning: flutter, swift, swiftui, kotlin ...
+- 🌱 I’m currently learning: switf/swiftui, kotlin ...
 - 📫 How to reach me: bohirjon.a@gmail.com
 - ⚡ Fun fact: I love science(physics, astrophysics) and philosophy.
 
